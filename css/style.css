@@ -1,32 +1,32 @@
 /* Font-family start*/
 @font-face {
-	font-family: m100;
-	src: url("/m100.eot");
+	font-family: 'm100';
+	src: url(m100.eot);
 }
 
 @font-face {
-	font-family: m100;
-	src: url("/m100.otf");
+	font-family: 'm100';
+	src: url(m100.otf);
 }
 
 @font-face {
-	font-family: m300;
-	src: url("/m300.eot");
+	font-family: 'm300';
+	src: url(m300.eot);
 }
 
 @font-face {
-	font-family: m300;
-	src: url("/m300.otf");
+	font-family: 'm300';
+	src: url(m300.otf);
 }
 
 @font-face {
-	font-family: m500;
-	src: url("m500.eot");
+	font-family: 'm500';
+	src: url(m500.eot);
 }
 
 @font-face {
-	font-family: m500;
-	src: url("m500.otf");
+	font-family: 'm500';
+	src: url(m500.otf);
 }
 /* Custom CSS start*/
 .container-fluid  {
@@ -65,7 +65,7 @@
 }
 
 .contact {
-	font-size: 13px;
+    font-size: 13px;
     font-family: m300;
 }
 
