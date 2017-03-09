@@ -135,9 +135,9 @@
 .logo_text > h1 {
 	font-family: bold;
 	color: #463f3a;
-	font-size: 27px;
+	font-size: 28px;
 	margin: 0;
-	line-height: 44px;
+	line-height: 41px;
 	
 }
 
@@ -569,10 +569,10 @@
 }
 
 .f_logo_text > h1 {
-	font-family: fantasy;
-	font-size: 27px;
+	font-family: bold;
+	font-size: 28px;
 	margin: 0;
-	line-height: 41px;
+	line-height: 39px;
 }
 
 .f_logo_text > p {
