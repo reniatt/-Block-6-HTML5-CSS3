@@ -135,14 +135,14 @@
 .logo_text > h1 {
 	font-family: fantasy;
 	color: #463f3a;
-	font-size: 29px;
+	font-size: 26px;
 	margin: 0;
 	line-height: 44px;
 	
 }
 
 .logo_text > p {
-	font-size: 8px;
+	font-size: 9px;
 	font-weight: 700;
 	font-family: m300;
 	margin: 0;	
@@ -570,13 +570,13 @@
 
 .f_logo_text > h1 {
 	font-family: fantasy;
-	font-size: 29px;
+	font-size: 26px;
 	margin: 0;
 	line-height: 41px;
 }
 
 .f_logo_text > p {
-	font-size: 8px;
+	font-size: 9px;
 	font-weight: 600;
 	font-family: m300;
 	margin: 0;
